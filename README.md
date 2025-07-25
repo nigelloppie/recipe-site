@@ -27,5 +27,5 @@ A simple recipe search web app built with Go for the backend and plain HTML, Boo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/recipe-finder.git
+git clone https://github.com/nigelloppie/recipe-site.git
 cd recipe-finder
